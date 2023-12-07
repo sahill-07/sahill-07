@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi! 👋<br>I'm Sahil Bangar . I'm a Computer Engineering undergraduate. I have strong interests in Web Development as well as App Development.
+Hi! 👋<br>I'm Sahil Bangar.
+
+- 🌱 I’m currently learning **DSA from Striver's DSA sheet**
+
+- 📫 How to reach me **sahilbangar72002@gmail.com**
 
 
 ## 🌐 Socials:
