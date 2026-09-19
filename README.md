@@ -1,28 +1,188 @@
-# 💫 About Me:
-Hi! 👋<br>I'm Sahil Bangar.
+# Hi, I'm Sahil Bangar 👋
 
-- 🌱 I’m currently learning **DSA from Striver's DSA sheet**
+### Web Developer | Application Support Engineer @ TCS | Aspiring DevOps Engineer
 
-- 📫 How to reach me **sahilbangar72002@gmail.com**
+💼 **Currently working at Tata Consultancy Services (TCS)** on an enterprise **SBI project**, with hands-on exposure to **Linux/Unix, Shell Scripting, SQL, application monitoring, production support, and troubleshooting**.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahill._07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-bangar) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sahill-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahill-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahill-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sahill-07&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Alongside my professional experience, I'm building my skills in **Git, CI/CD, Docker, Cloud, and DevOps** while continuing to work on web development projects.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sahill-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Professional Experience
+
+### Tata Consultancy Services (TCS)
+
+**Application Support Engineer — SBI Project**
+
+Currently working in an enterprise application-support environment with exposure to:
+
+* 🐧 **Linux / Unix**
+* 📜 **Shell Scripting**
+* 🗄️ **SQL / Oracle**
+* 🔍 Application & server monitoring
+* ⚙️ Production support and troubleshooting
+* 📂 File processing and transfer workflows
+* 🔄 Environment-related activities
+* 🚨 Issue investigation and escalation
+* 🤖 Automation and scripting
+
+My current role is helping me understand how **large-scale enterprise applications are monitored, maintained, troubleshot and supported in production**.
+
+I'm using this experience as a foundation to move deeper into **DevOps, automation and cloud technologies**.
+
+---
+
+## 🚀 About Me
+
+* 💼 **Working at TCS** on an enterprise SBI project
+* 💻 Background in **Web Development**
+* 🐧 Hands-on experience with **Linux / Unix**
+* 📜 Currently strengthening **Shell Scripting**
+* 🗄️ Experience with **SQL and Oracle environments**
+* ⚙️ Exploring **DevOps, CI/CD, Docker & Cloud**
+* 🔧 Interested in automation, monitoring and infrastructure
+* 🏗️ I enjoy building practical projects and learning by doing
+* 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,bash,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,jenkins" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+</p>
+
+---
+
+## 🎯 Career Journey
+
+```text
+Web Development
+       ↓
+Enterprise Application Support @ TCS
+       ↓
+Linux + Shell Scripting
+       ↓
+Git & GitHub
+       ↓
+CI/CD
+       ↓
+Docker
+       ↓
+Cloud
+       ↓
+DevOps Engineer 🚀
+```
+
+---
+
+## 📚 Currently Learning
+
+🐧 **Linux & Shell Scripting**
+
+🔀 **Git & GitHub**
+
+⚙️ **CI/CD**
+
+🐳 **Docker**
+
+☁️ **Cloud**
+
+🚀 **DevOps**
+
+---
+
+## 🏆 Experience & Achievements
+
+* 💼 **Tata Consultancy Services (TCS)** — Application Support
+* 🏦 Working on an **SBI enterprise project**
+* 🐧 Hands-on exposure to Linux/Unix environments
+* 📜 Shell scripting and automation
+* 🗄️ SQL / Oracle experience
+* 🔍 Production monitoring and troubleshooting
+* 🏅 Smart India Hackathon participant
+* 🏅 Crescendo Hackathon participant
+* 🎓 Meta Front-End Developer Professional Certificate
+* 💻 Web development project experience
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 Tech CollabHub
+
+GitHub-based project recommendation and developer discussion platform.
+
+**React • JavaScript • Python • GitHub API**
+
+### 🌦️ React Weather App
+
+Responsive weather application using real-time weather data.
+
+**React • Vite • Tailwind CSS • OpenWeather API**
+
+### 🧑‍💼 SmartHire
+
+Full-stack recruitment application with authentication and backend integration.
+
+**React • Express.js • MongoDB • Redux • Cloudinary**
+
+### 🛡️ Vehicle Insurance Management
+
+Angular-based insurance management application with admin and user workflows.
+
+**Angular • TypeScript • Tailwind CSS**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahill-07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahill-07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sahill-07&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/sahill-07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> **Learn. Build. Automate. Repeat.**
