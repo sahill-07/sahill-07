@@ -1,6 +1,6 @@
 # Hi, I'm Sahil Bangar 👋
 
-### Web Developer | Application Support Engineer @ TCS | Aspiring DevOps Engineer
+### Application Support Engineer @ TCS | Aspiring DevOps Engineer | Web Developer
 
 💼 **Currently working at Tata Consultancy Services (TCS)** on an enterprise **SBI project**, with hands-on exposure to **Linux/Unix, Shell Scripting, SQL, application monitoring, production support, and troubleshooting**.
 
