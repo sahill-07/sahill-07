@@ -151,7 +151,7 @@ Full-stack recruitment application with authentication and backend integration.
 
 Angular-based insurance management application with admin and user workflows.
 
-**Angular • TypeScript • Tailwind CSS**
+**Angular • TypeScript • Tailwind CSS • Material UI**
 
 ---
 
@@ -186,10 +186,3 @@ Angular-based insurance management application with admin and user workflows.
 ---
 
 > **Learn. Build. Automate. Repeat.**
-
-
-
-
-
-
-
